@@ -28,6 +28,11 @@ p{
 	margin: 8%;
 }
 
+.card img{
+	width: 150px;
+	height: 200px;
+}
+
 .name{
 	color: #FF0000;
 }
@@ -62,3 +67,4 @@ footer{
 	background-color: #808080;
 	text-align: center;
 }
+
