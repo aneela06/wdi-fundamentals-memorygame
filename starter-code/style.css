@@ -46,8 +46,9 @@ a{
 	background-color: #ffbf00;
 	color:#ffffff;
 	display:block;
+	padding: 20px;
 	float:left;
-	padding:35px;
+	text-align: center;
 }
 
 a:hover{
@@ -55,7 +56,7 @@ a:hover{
 }
 
 .clearfix:after {
-	visibility: hidden;
+		visibility: hidden;
     display: block;
     content: " ";
     clear: both;
@@ -67,4 +68,3 @@ footer{
 	background-color: #808080;
 	text-align: center;
 }
-
